@@ -37,7 +37,7 @@ const Clients = () => {
       
 
   return (
-    <div className='w-full p-10'>
+    <div id='clients' className='w-full p-10'>
             <div className='w-[75%] mx-auto'>
             <h3 className='font-medium text-lg text-gray-600'>Client Reviews</h3>
             <h1 className='font-semibold mt-1 text-3xl'>What our Happy Clients Says About Us</h1>

@@ -25,7 +25,7 @@ const Projects = () => {
 
 
     return (
-        <div className='w-full p-10'>
+        <div id='projects' className='w-full p-10'>
             <div className='w-[75%] mx-auto'>
             <h3 className='font-medium text-lg text-gray-600'>Our Portofolio’s</h3>
             <h1 className='font-semibold mt-1 text-3xl'>Recent Projects</h1>
